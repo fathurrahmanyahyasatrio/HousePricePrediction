@@ -1,4 +1,4 @@
-# HousePricePrediction
+# House Price Prediction
 
 If we were to inquire about the ideal home of a potential buyer, the real estate agent wouldn't mention specifics like the basement's ceiling height or how close the house is to a railroad. However, the dataset provided in this playground competition demonstrates the various factors that goes beyond the bedroom count or a traditional white fence in impacting the negotiations of home prices.
 
